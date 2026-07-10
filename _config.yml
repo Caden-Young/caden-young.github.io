@@ -1,3 +1,4 @@
 title: Caden Young
 description: Cybersecurity Writeups and Notes
-theme: minima
+theme: jekyll-theme-hacker
+show_downloads: false
